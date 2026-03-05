@@ -1,6 +1,6 @@
-# 📊 Conversion Performance & Marketing Funnel Analysis (Power BI Dashboard)
+# Conversion Performance & Marketing Funnel Analysis (Power BI Dashboard)
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Conversion Performance & Marketing Funnel Analysis Dashboard** is a Power BI project designed to analyze **customer behavior, traffic sources, device usage, and conversion performance across a marketing funnel**.
 
@@ -16,7 +16,7 @@ The report provides a clear visual representation of:
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 * Analyze **visitor conversion behavior**
 * Identify **best-performing marketing channels**
@@ -27,9 +27,9 @@ The report provides a clear visual representation of:
 
 ---
 
-# 📈 Dashboard Features
+# Dashboard Features
 
-## 1️⃣ Revenue by Product Category
+## 1️.Revenue by Product Category
 
 Displays revenue generated from different product categories such as:
 
@@ -42,7 +42,7 @@ This helps identify **top-performing product segments**.
 
 ---
 
-## 2️⃣ Funnel Stage Analysis
+## 2️.Funnel Stage Analysis
 
 Visualizes the **marketing conversion funnel**:
 
@@ -52,7 +52,7 @@ This helps identify **drop-off points** and improve marketing strategies.
 
 ---
 
-## 3️⃣ Traffic Source Performance
+## 3️.Traffic Source Performance
 
 Compares **Total Visitors vs Total Customers** across traffic channels:
 
@@ -67,7 +67,7 @@ This enables marketers to **measure channel effectiveness**.
 
 ---
 
-## 4️⃣ Conversion Rate by Funnel Stage
+## 4️.Conversion Rate by Funnel Stage
 
 Tracks conversion percentages for:
 
@@ -79,7 +79,7 @@ Useful for optimizing the **customer journey and checkout process**.
 
 ---
 
-## 5️⃣ Device Type Analysis
+## 5️.Device Type Analysis
 
 Breakdown of traffic by device type:
 
@@ -92,7 +92,7 @@ Helps determine **which devices drive the most engagement and conversions**.
 
 ---
 
-## 6️⃣ Time-Based Trend Analysis
+## 6️.Time-Based Trend Analysis
 
 Shows monthly performance for:
 
@@ -103,7 +103,7 @@ This helps identify **seasonal trends and marketing performance changes**.
 
 ---
 
-# 🎛 Interactive Filters (Slicers)
+# Interactive Filters (Slicers)
 
 The dashboard includes interactive filters for:
 
@@ -116,7 +116,7 @@ Users can dynamically explore the data to gain deeper insights.
 
 ---
 
-# 📊 Key Metrics Displayed
+# Key Metrics Displayed
 
 * Total Visitors
 * Total Customers
@@ -129,7 +129,7 @@ These KPIs provide a **quick overview of business performance**.
 
 ---
 
-# 🛠 Tools & Technologies
+# Tools & Technologies
 
 * **Power BI Desktop**
 * **Data Modeling**
@@ -139,7 +139,7 @@ These KPIs provide a **quick overview of business performance**.
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset includes eCommerce behavioral data such as:
 
@@ -152,7 +152,7 @@ The dataset includes eCommerce behavioral data such as:
 
 ---
 
-# 🚀 Insights This Dashboard Can Provide
+# Insights This Dashboard Can Provide
 
 ✔ Which **marketing channel drives the most conversions**
 ✔ Where users **drop off in the funnel**
