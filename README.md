@@ -154,11 +154,11 @@ The dataset includes eCommerce behavioral data such as:
 
 # Insights This Dashboard Can Provide
 
-✔ Which **marketing channel drives the most conversions**
-✔ Where users **drop off in the funnel**
-✔ Which **device generates the highest engagement**
-✔ Which **product categories generate the most revenue**
-✔ How **traffic and conversions change over time**
+ Which **marketing channel drives the most conversions**
+ Where users **drop off in the funnel**
+ Which **device generates the highest engagement**
+ Which **product categories generate the most revenue**
+ How **traffic and conversions change over time**
 ---
-# Screenshot:
+# Screenshot:https://github.com/bpranam/FUTURE_DS_TASK2/blob/main/DS_TASK2.jpg
 ```
